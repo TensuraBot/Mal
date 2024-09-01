@@ -16,7 +16,7 @@ const Navbar = () => {
         }}
       >
         <ContainerLogo>
-        <Text>MyAnimeList</Text>
+        <Text>HasenimeList</Text>
         </ContainerLogo>
       </Button>
       <Button
